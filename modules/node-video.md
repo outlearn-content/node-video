@@ -3,10 +3,10 @@ name: node-video
 version : 0.0.1
 title : "Node.js with Express.js"
 description: "This is an introduction to Node.js using the latest updates to the Express.js framework."
-homepage : "http://www.learncode.academy"
+homepage : "https://www.youtube.com/user/learncodeacademy"
 author : "LearnCode.academy"
+freshnessDate : 2014-04-20
 license : "Standard Youtube License"
-url : "http://www.learncode.academy"
 -->
 
 <!-- @section -->
@@ -25,7 +25,9 @@ We're going to cover the difference between JavaScript in a browser vs JavaScrip
 
 To wrap it up, we're going to spin up a quick web server in Node.js just to show you how easy it is.
 
-<!-- @asset, "contentType" : "outlearn/prototype-feature", "text" : "{ \"task\": \"Summarize Node.js\", \"deliverable\" : \"Write a one-paragraph summary of what Node.js is and paste it here.\" }"-->
+
+<!-- @task, "hasDeliverable" : true, "text" : "Write a one-paragraph summary of what Node.js is and paste it here."-->
+
 
 <!-- @section -->
 

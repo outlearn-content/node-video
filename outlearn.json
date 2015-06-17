@@ -1,0 +1,14 @@
+{
+  "olpVersion" : "0.5",
+
+  "paths" : [
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/node-video.md"},
+    {"olm" : "./modules/node-video-series.md"}
+  ],
+
+  "assets" : [
+  ]
+}

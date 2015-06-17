@@ -5,7 +5,6 @@
 "title" : "Node.js with Express.js and MongoDB",
 "description" : This is a series of videos about using Node.js with Express.js and MongoDB.",
 "homepage" : "https://www.youtube.com/user/learncodeacademy",
-"author" : "LearnCode.academy",
 "freshnessDate" : 2014-04-20,
 "license" : "Standard Youtube License"
 }

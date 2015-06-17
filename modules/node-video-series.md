@@ -1,16 +1,16 @@
 <!--
-name: node-video-series
-version : 0.0.1
-title : "Node.js with Express.js and MongoDB"
-description: "This is a series of videos about using Node.js with Express.js and MongoDB."
-homepage : "https://www.youtube.com/user/learncodeacademy"
-author : "LearnCode.academy"
-license : "Standard Youtube License",
-"contact" : {
-  "url" : "http://www.learncode.academy",
-  "twitter": "LearnCodeAcad"
+{
+"name" : "node-video-series",
+"version" : "0.0.1",
+"title" : "Node.js with Express.js and MongoDB",
+"description" : This is a series of videos about using Node.js with Express.js and MongoDB.",
+"homepage" : "https://www.youtube.com/user/learncodeacademy",
+"author" : "LearnCode.academy",
+"freshnessDate" : 2014-04-20,
+"license" : "Standard Youtube License"
 }
 -->
+
 
 <!-- @section -->
 

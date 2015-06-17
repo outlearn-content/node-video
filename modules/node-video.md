@@ -1,12 +1,14 @@
 <!--
-name: node-video
-version : 0.0.1
-title : "Node.js with Express.js"
-description: "This is an introduction to Node.js using the latest updates to the Express.js framework."
-homepage : "https://www.youtube.com/user/learncodeacademy"
-author : "LearnCode.academy"
-freshnessDate : 2014-04-20
-license : "Standard Youtube License"
+{
+"name" : "node-video",
+"version" : "0.0.1",
+"title" : "Node.js with Express.js",
+"description" : "This is an introduction to Node.js using the latest updates to the Express.js framework.",
+"homepage" : "https://www.youtube.com/user/learncodeacademy",
+"author" : "LearnCode.academy",
+"freshnessDate" : 2014-04-20,
+"license" : "Standard Youtube License"
+}
 -->
 
 <!-- @section -->

@@ -15,7 +15,7 @@
 
 # What is Node.js Exactly? - a beginners introduction to Node.js
 
-If you're new to web development, it can be a bit confusing as to what exactly Node.js is and what you should do with it, and there's a lot of information out there...most of which seems to be tailored towards genius-level developers.
+If you're new to web development, it can be a bit confusing as to what exactly Node.js is and what you should do with it, and there's a lot of information out there ... most of which seems to be tailored towards genius-level developers.
 
 <!-- @multipleChoice -->
 

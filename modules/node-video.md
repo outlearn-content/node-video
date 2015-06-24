@@ -38,9 +38,6 @@ So, here's a Node.js introduction for those who have no idea what it is. We're g
 <!-- @task, "hasDeliverable" : true, "text" : "Write a one paragraph summary of what Node.js is and paste it here."-->
 
 
-<!-- @task, "hasDeliverable" : true, "text" : "Write a one-paragraph summary of what Node.js is and paste it here."-->
-
-
 <!-- @section -->
 # Node.js Tutorial for Beginners 2014 - An Introduction to Node.js with Express.js
 

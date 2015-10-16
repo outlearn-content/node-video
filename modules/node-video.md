@@ -35,7 +35,7 @@ So, here's a Node.js introduction for those who have no idea what it is. We're g
 
 <!-- @task, "hasDeliverable" : false, "text" : "Watch the What is Node.js Exactly video."-->
 
-<!-- @task, "hasDeliverable" : true, "text" : "Write a one paragraph summary of what Node.js is and paste it here."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Write a one paragraph summary of what Node.js is."-->
 
 
 <!-- @section -->
@@ -47,7 +47,7 @@ This video is an introduction to Node.js using the latest updates to the Express
 
 <!-- @task, "hasDeliverable" : false, "text" : "Watch the Node.js for beginners 2014 video."-->
 
-<!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen Node.js in action, write a paragraph describing your impressions and paste it here."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen Node.js in action, write a paragraph describing your impressions."-->
 
 <!-- @section -->
 # Node.js at PayPal - Clash of the Titans: Releasing the Kraken
@@ -58,4 +58,4 @@ This video takes you inside the introduction of Node.js to PayPal. It's a fantas
 
 <!-- @task, "hasDeliverable" : false, "text" : "Watch the Node.js at PayPal - Clash of the Titans: Releasing the Kraken video."-->
 
-<!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen how PayPal adopted Node.js, write a paragraph describing your impressions and paste it here."-->
+<!-- @task, "hasDeliverable" : true, "text" : "Now that you have seen how PayPal adopted Node.js, write a paragraph describing your impressions."-->

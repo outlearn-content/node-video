@@ -5,7 +5,7 @@
 "title" : "Node.js and Express.js Video Blitz",
 "description" : "This module provides two video introductions to Node.js. The first video is a general overview, and the other is a fast paced walkthrough of how Node.js works with the latest updates to the Express.js framework. After just 30 minutes of  viewing time (at 1x speed), your mind will be blown with the power and possibilities of Node.js. ",
 "author" : "Jeff Whatcott",
-"homepage" : "https://pilot.outlearn.com/user/25",
+"homepage" : "https://www.outlearn.com/user/25",
 "freshnessDate" : 2015-06-17,
 "license" : Creative Commons Attribution 4.0 International"
 }

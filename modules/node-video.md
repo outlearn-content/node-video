@@ -33,7 +33,7 @@ So, here's a Node.js introduction for those who have no idea what it is. We're g
 
 <!-- @resource, "url" : "https://www.youtube.com/watch?v=pU9Q6oiQNd0" -->
 
-<!-- @openResponse,"text" : "Watch the What is Node.js Exactly video."-->
+<!-- @task, "text" : "Watch the What is Node.js Exactly video."-->
 
 <!-- @openResponse, "text" : "Write a one paragraph summary of what Node.js is."-->
 
@@ -45,7 +45,7 @@ This video is an introduction to Node.js using the latest updates to the Express
 
 <!-- @resource, "url" : "https://www.youtube.com/watch?v=FqMIyTH9wSg" -->
 
-<!-- @openResponse, "text" : "Watch the Node.js for beginners 2014 video."-->
+<!-- @task, "text" : "Watch the Node.js for beginners 2014 video."-->
 
 <!-- @openResponse, "text" : "Now that you have seen Node.js in action, write a paragraph describing your impressions."-->
 
@@ -56,6 +56,6 @@ This video takes you inside the introduction of Node.js to PayPal. It's a fantas
 
 <!-- @resource, "url" : "https://www.youtube.com/watch?v=tZWGb0HU2QM" -->
 
-<!-- @openResponse, "text" : "Watch the Node.js at PayPal - Clash of the Titans: Releasing the Kraken video."-->
+<!-- @task, "text" : "Watch the Node.js at PayPal - Clash of the Titans: Releasing the Kraken video."-->
 
 <!-- @openResponse, "text" : "Now that you have seen how PayPal adopted Node.js, write a paragraph describing your impressions."-->
